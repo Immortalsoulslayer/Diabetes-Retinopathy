@@ -1,0 +1,4 @@
+train/
+test/
+val/
+gaussian_filtered_images/
